@@ -1,8 +1,6 @@
 # Password-Cracking
 # Password Cracking – Cybersecurity & Ethical Hacking
 
-**Networkwalks Cybersecurity Program | Week 3**
-
 ## Project Overview
 
 This project focuses on understanding password cracking techniques and evaluating password security through practical, hands-on exercises.
